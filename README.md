@@ -1,6 +1,6 @@
 - 👋 Hey I’m Amine Ketz from Paris @France.
 - 👀 a Javascript lover and Growth Hacker
-- 🌱 I’m currently learning MEVN stack
+- 🌱 Check my porfolio: https://ketz.vercel.app/
 - 💞️ I’m looking to collaborate on any JS-based project
 - 📫 How to reach me ? aminebellx@gmail.com
 
